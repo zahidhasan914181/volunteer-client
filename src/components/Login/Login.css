@@ -1,0 +1,25 @@
+.social-signin{
+    border: 1px solid gray;
+    border-radius:20px;
+    margin-bottom: 20px;
+    height: 40px;
+}
+.logo{
+    width: 200px;
+    margin-bottom: 50px;
+}
+.social-signin img{
+    width: 30px;
+    margin-right: 20px;
+}
+.bgColor{
+    background: #F9FAFC;
+    padding: 70px 0;
+}
+.login{
+    background: #fff;
+    border: 1px solid #555;
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+}
